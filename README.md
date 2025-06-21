@@ -53,8 +53,6 @@ J’ai utilisé deux fichiers CSV sur les cinq disponibles :
 ![Temporalité des températures](lien_vers_capture1.png)  
 ![Géographie des températures](lien_vers_capture2.png)  
 
-*(Remplace les liens par les URLs des images hébergées)*
-
 ## 8) Licence
 
 Ce projet est sous licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
