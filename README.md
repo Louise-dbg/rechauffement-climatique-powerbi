@@ -50,8 +50,8 @@ J’ai utilisé deux fichiers CSV sur les cinq disponibles :
 
 ## 7) Captures d’écran
 
-![Temporalité des températures.png]  
-![Géographie des températures.png]  
+![Temporalité des températures](Temporalité_des_températures.png)
+![Géographie des températures](Géographie_des_températures.png) 
 
 ## 8) Licence
 
